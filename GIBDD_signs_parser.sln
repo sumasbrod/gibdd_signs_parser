@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIBDD_signs_parser", "GIBDD_signs_parser\GIBDD_signs_parser.csproj", "{8C8A7C9B-56BD-49FC-B542-BE51AE3748CE}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "Model", "Model\Model.modelproj", "{E9ADBBC7-B83B-4DA4-B56F-25B8881252B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C8A7C9B-56BD-49FC-B542-BE51AE3748CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8A7C9B-56BD-49FC-B542-BE51AE3748CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8A7C9B-56BD-49FC-B542-BE51AE3748CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8A7C9B-56BD-49FC-B542-BE51AE3748CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9ADBBC7-B83B-4DA4-B56F-25B8881252B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9ADBBC7-B83B-4DA4-B56F-25B8881252B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9ADBBC7-B83B-4DA4-B56F-25B8881252B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9ADBBC7-B83B-4DA4-B56F-25B8881252B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

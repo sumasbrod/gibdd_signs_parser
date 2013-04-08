@@ -1,0 +1,31 @@
+#Visual 2010 ignore file
+
+syntax: glob
+
+#files
+*.bak.*
+*.bak
+*.exe
+*.dll
+*.sdf
+*.opensdf
+*.user
+*.suo
+thumbs.db
+
+#C/C++
+*.lib
+*.obj
+*.ilk
+*.pdb
+
+#directories
+App_Data\*
+[Dd]ebug\*
+[Rr]elease\*
+ipch\*
+bin\*
+obj\*
+packages\*
+TestResults\*
+images\*
